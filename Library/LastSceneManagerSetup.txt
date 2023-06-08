@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1-CENAS/gameplay_2try.unity
+  isLoaded: 1
+  isActive: 1

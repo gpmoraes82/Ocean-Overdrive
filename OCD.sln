@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCD.Plugins", "OCD.Plugins.csproj", "{F2160E82-9B2C-F951-41D9-01A490074292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCD", "OCD.csproj", "{F1D274D6-9C8E-6759-CECB-7766120B8878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCD.Editor", "OCD.Editor.csproj", "{F46CF260-5070-F9CA-51D5-6DEFBFD07513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2160E82-9B2C-F951-41D9-01A490074292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2160E82-9B2C-F951-41D9-01A490074292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2160E82-9B2C-F951-41D9-01A490074292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2160E82-9B2C-F951-41D9-01A490074292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D274D6-9C8E-6759-CECB-7766120B8878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D274D6-9C8E-6759-CECB-7766120B8878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D274D6-9C8E-6759-CECB-7766120B8878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D274D6-9C8E-6759-CECB-7766120B8878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46CF260-5070-F9CA-51D5-6DEFBFD07513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46CF260-5070-F9CA-51D5-6DEFBFD07513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46CF260-5070-F9CA-51D5-6DEFBFD07513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46CF260-5070-F9CA-51D5-6DEFBFD07513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
